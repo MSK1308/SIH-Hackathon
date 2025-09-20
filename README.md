@@ -1,1 +1,1 @@
-# Neurox-AI1
+# SIH-Hackathon
